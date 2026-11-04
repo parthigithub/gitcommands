@@ -13,6 +13,7 @@ git add .	Stage all changes
 git add <file>	Stage a specific file
 git restore --staged <file>	Unstage a file
 git commit -m "message"	Commit staged changes
+git commit -a -m "message" Commit with out Stage command
 git commit --amend	Modify the last commit
 git branch	List local branches
 git branch <branch-name>	Create a new branch
