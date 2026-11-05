@@ -7,6 +7,8 @@ git pull origin master
 git merge origin/branch1
 
 git push origin master
+
+git push origin branch1:master
 git init	Initialize a new Git repository
 git clone <repo-url>	Clone an existing repository
 git --version	Check Git version
